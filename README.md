@@ -1,4 +1,4 @@
-# cof3940feb94503866d3ba38f
+# We Are The Champions
 
 Quick start:
 
