@@ -1,0 +1,68 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    height: 100vh;
+    max-width: 320px;
+    margin: 0 auto;
+}
+
+.header-font {
+    font-family: "Josefin Sans", sans-serif;
+}
+
+#freddie-img {
+    width: 90px;
+    height: 90px;
+    margin-top: 50px;
+}
+
+#champion-hdr {
+    color: white;
+    font-size: 25px;
+}
+
+#input-txt {
+    width: 300px;
+    height: 120px;
+    font: #8F8F8F;
+    padding: 8px;
+    background: #444059;
+    border-style: none;
+    border-radius: 8px;
+}
+
+#publish-btn {
+    width: 315px;
+    height: 60px;
+    color: black;
+    font-size: 22px;
+    background: #28A9F1;
+    border-style: none;
+    border-radius: 8px;
+    margin: 10px auto;
+}
+
+#endorsement-hdr {
+    color: white;
+}
+
+#endorsements {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.endorsement {
+    color: black;
+    background: white;
+    margin: 10px auto;
+    width: 275px;
+    padding: 20px;
+    font-family: "Inter", sans-serif;
+    border-radius: 2px;
+}
